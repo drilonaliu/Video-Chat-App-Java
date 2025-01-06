@@ -7,6 +7,11 @@
         "c:\\Users\\drilo\\Desktop\\webcam jars\\webcam-capture-0.3.11.jar",
         "c:\\Users\\drilo\\Desktop\\webcam jars\\slf4j.jdk14-1.6.1.jar",
         "c:\\Users\\drilo\\Desktop\\webcam jars\\slf4j.log4j12_1.5.2.jar",
-        "c:\\Users\\drilo\\Desktop\\webcam jars\\webcam-capture-driver-jmf-0.3.7.jar"
+        "c:\\Users\\drilo\\Desktop\\webcam jars\\webcam-capture-driver-jmf-0.3.7.jar",
+        "webcam jars/bridj-0.7.0.jar",
+        "webcam jars/slf4j.jdk14-1.6.1.jar",
+        "webcam jars/slf4j-api-1.7.2.jar",
+        "webcam jars/webcam-capture-0.3.11.jar",
+        "webcam jars/webcam-capture-driver-jmf-0.3.7.jar"
     ]
 }
