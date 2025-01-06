@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClientChatWindow",
+            "request": "launch",
+            "mainClass": "ClientChatWindow",
+            "projectName": "Video-Chat-App-Java_307c66f7"
+        },
+        {
+            "type": "java",
+            "name": "ServerChatWindow",
+            "request": "launch",
+            "mainClass": "ServerChatWindow",
+            "projectName": "Video-Chat-App-Java_307c66f7"
+        },
+        {
+            "type": "java",
             "name": "ServerChatWindow",
             "request": "launch",
             "mainClass": "ServerChatWindow",

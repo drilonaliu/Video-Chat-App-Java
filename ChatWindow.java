@@ -165,7 +165,7 @@ public class ChatWindow extends javax.swing.JFrame implements KeyListener {
 
         sendMessageButton.setBackground(new java.awt.Color(53, 56, 64));
         sendMessageButton.setForeground(new java.awt.Color(53, 56, 64));
-        sendMessageButton.setIcon(new javax.swing.ImageIcon(("ChatApp/icons/send-mail (1).png"))); // NOI18N
+        sendMessageButton.setIcon(new javax.swing.ImageIcon(("icons/send-mail (1).png"))); // NOI18N
         sendMessageButton.setBorder(javax.swing.BorderFactory.createEmptyBorder(1, 1, 1, 1));
         sendMessageButton.setContentAreaFilled(false);
         sendMessageButton.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -176,7 +176,7 @@ public class ChatWindow extends javax.swing.JFrame implements KeyListener {
         });
 
         cameraButton.setBackground(new java.awt.Color(53, 56, 64));
-        cameraButton.setIcon(new javax.swing.ImageIcon(("ChatApp/icons/camera (2).png"))); // NOI18N
+        cameraButton.setIcon(new javax.swing.ImageIcon(("icons/camera (2).png"))); // NOI18N
         cameraButton.setBorder(javax.swing.BorderFactory.createEmptyBorder(1, 1, 1, 1));
         cameraButton.setContentAreaFilled(false);
         cameraButton.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
@@ -188,7 +188,7 @@ public class ChatWindow extends javax.swing.JFrame implements KeyListener {
 
         microphoneButton.setBackground(new java.awt.Color(53, 56, 64));
         microphoneButton.setForeground(new java.awt.Color(53, 56, 64));
-        microphoneButton.setIcon(new javax.swing.ImageIcon(("ChatApp/icons/microphone.png"))); // NOI18N
+        microphoneButton.setIcon(new javax.swing.ImageIcon(("icons/microphone.png"))); // NOI18N
         microphoneButton.setBorder(null);
         microphoneButton.setBorderPainted(false);
         microphoneButton.setContentAreaFilled(false);
